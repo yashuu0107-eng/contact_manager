@@ -31,7 +31,7 @@ To run the Contact Management Application locally, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Adesh856/Contact_Managment_App.git
+   git clone https://github.com/yashuu0107-eng/contact_manager.git
    ```
 
 2. Navigate to the backend directory:
@@ -59,7 +59,7 @@ To run the Contact Management Application locally, follow these steps:
    npm start
    ```
 
-The backend server should now be running on http://localhost:5000.
+The backend server should now be running on http://localhost:7000.
 
 ### Frontend Setup
 
@@ -81,7 +81,7 @@ The backend server should now be running on http://localhost:5000.
    npm run dev
    ```
 
-The frontend server should now be running on http://127.0.0.1:5173/.
+The frontend server should now be running on http://localhost:5173
 ## Folder Structure
 
 ```
@@ -118,17 +118,10 @@ contact-management-app/
 - DELETE `/api/contacts/:id`: Delete a contact.
 - Search `api/contacts/search?name=`: Search by name,email,number
 
-## Deployed Application
 
-You can access the deployed Contact Management Application using the following link:
-
-[Deployed link](https://contact-managmentadesh.netlify.app/)
-
-Feel free to explore and use the application.
-
-## ScreenShots 
 
 <img src="./Client/Frontend/src/Images/Screenshot 2023-09-10 174841.png"></img>
+
 
 
 
